@@ -19,4 +19,8 @@ public class Branch {
         //TODO
         return null;
     }
+
+    public Collection<Client> getClients() {
+        return null;
+    }
 }
